@@ -1,0 +1,50 @@
+
+
+
+input{
+    background-color: white;
+    border-radius: 2px;
+}
+
+h1{
+    color: rgb(223, 80, 147);
+    position: relative;
+    top: 4px;
+}
+
+
+
+h2{
+    color: rgb(72, 255, 0);
+}
+
+h4{
+    color: darkslategrey;
+}
+
+.image{
+    border-radius: 15px;
+    position: relative;
+    top: 10px;
+    width: 25%;
+}
+
+.calorie{
+    position: relative;
+    top: 8px;
+    left: -130px;
+    color: violet;
+}
+
+.calNo{
+    position: relative;
+    top: 10px;
+    left: -130px;
+    color: violet;
+}
+
+.ingre{
+    position: relative;
+    top: 8px;
+    color: rgb(0, 183, 250);
+}
